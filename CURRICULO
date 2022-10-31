@@ -1,0 +1,51 @@
+<html>
+  <head>
+    <title>CURRICULO</title>
+  </head>
+  <body>
+    <!--QUANDO EU TIVER TEMPO LEMBRAR DE DAR CONTINUIDADE NESSE PROJETO-->
+    <img
+      width="150"
+      src="C:\Users\Ludmila Pereira\OneDrive\Desktop\Fotos\IMG_20220220_135131_396.jpg"
+    />
+    <h1>LUDMILA PEREIRA</h1>
+    <!--Meu Currículo em HTML-->
+    <h2>Informações pessoais:</h2>
+    <ul>
+      <li><b>Telefone:</b>1194152-8348</li>
+      <li><b>E-mail: </b>ludmila.aparecida.pereira2014@gmail.com</li>
+    </ul>
+    <h3>Contatos</h3>
+    <h2>Links</h2>
+    <ul>
+      <li>
+        <a href="https://www.linkedin.com/in/devludmilapereira/">Linkedin</a>
+      </li>
+    </ul>
+    <h3>Endereço</h3>
+    <ul>
+      <li><b>Rua:</b> Antão Bernardo da Silva Nº170 A</li>
+    </ul>
+
+    <h3>Experiência Profissional</h3>
+    <ul>
+      <li>
+        <b>Assistente de logistica:</b> 04/2018 - Atual na Renner S.A Principais
+        conhecimentos adquiridos:<br />
+        Indicadores de Produtividade e Logística. Empresa atuante do segmento de
+        Logística e cadeia de suprimentos.
+      </li>
+    </ul>
+    <h3>Formação e Capacitação</h3>
+    <ul>
+      <li>
+        <b>Sistema da Informação</b><br />
+        Principal conhecimento adquirido: Sistemas e Tecnologias da
+        Informação<br />
+        Nível: Graduação<br />
+        Duração: 3200.00<br />
+        Instituição: CRUZEIRO DO SUL
+      </li>
+    </ul>
+  </body>
+</html>
